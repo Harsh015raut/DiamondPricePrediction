@@ -1,1 +1,1 @@
-## MAchine Learning Projects
+## Diamond Price Predictor
